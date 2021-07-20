@@ -1,0 +1,12 @@
+{
+  "name": "super-project-pasv",
+  "version": "1.0.0",
+  "description": "API tests at PASV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "author": "Nataliia Pidbereznia",
+  "license": "ISC"
+}
